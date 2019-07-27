@@ -10,3 +10,6 @@
 
 - 数据清洗
 - rent_baseline_clean
+
+## label.csv
+- 初赛：0.913
