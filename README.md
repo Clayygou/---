@@ -26,5 +26,5 @@
 ## label.csv
 - 初赛：0.913
 
-## label_2.csv
+## newe/sub_b_919.csv
 - 复赛：0.919
